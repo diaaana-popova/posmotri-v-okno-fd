@@ -1,1 +1,1 @@
-[Первая версия сдачи учебного проекта "Посмотри в окно"](https://github.com/diaaana-popova/posmotri-v-okno-fd)
+https://github.com/diaaana-popova/posmotri-v-okno-fd
